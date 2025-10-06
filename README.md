@@ -1,4 +1,4 @@
 <div align="center">
-    <h1>Semantic Segmentation using SegFormer in Hugging Face <br/> </h1>
+    <h1>Semantic Segmentation using SegFormer <br/> in Hugging Face </h1>
 </div>
 
